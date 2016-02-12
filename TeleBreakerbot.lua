@@ -229,26 +229,16 @@ function create_config( )
     sudo_users = {108639314,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[TeleBreaker v1 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/MHPG/TeleBreaker
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
-
+@MHPOfficial[Sudo User]
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
+HannanLive
 Our channels
-@teleseedch [English]
-@iranseed [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
